@@ -1,0 +1,12 @@
+# requirements.txt
+# MindBot — Reddit API Edition | INT428
+# Install with: pip install -r requirements.txt
+
+# Reddit API wrapper (replaces openai)
+praw>=7.7.0
+
+# Optional: Web UI
+# streamlit>=1.30.0
+
+# Optional: Environment variable management
+# python-dotenv>=1.0.0
